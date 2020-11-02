@@ -3,6 +3,8 @@
 
 #include <QtWidgets>
 #include <QtNetwork>
+
+// cette ligne est mystérieuse pour moi, elle est lié à l'héritage multiple avec le private Ui:FenClient.
 #include "ui_FenClient.h"
 
 
